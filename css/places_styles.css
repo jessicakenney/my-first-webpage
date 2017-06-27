@@ -1,3 +1,8 @@
+
+body {
+  background: #bbcce8 
+}
+
 h1 {
   color: #52a9aa;
   text-align: center;
@@ -7,11 +12,19 @@ h2 {
   font-style: italic;
   text-align: center;
 }
-img {
-  text-align: center;
+
+h3 {
+  color: #894375;
+  font-weight: bold;
+  text-align: left;
+}
+
+body {
+  background: #bbcce8 
 }
 
 p {
+  text-align: center;
   font-family: sans-serif;
 }
 
